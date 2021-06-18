@@ -2,7 +2,7 @@ baseurl: https://paulinamartin96.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Just a blog.
 publishDir: docs/
 
 # Change it to your Disqus shortname before using
@@ -39,7 +39,7 @@ params:
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             local: true
-            src: img/avatar.png
+            src: avatar.png
 
     article:
         math: false

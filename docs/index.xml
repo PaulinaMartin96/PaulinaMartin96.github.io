@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Example Site</title>
+        <title>Just a blog.</title>
         <link>https://paulinamartin96.github.io/</link>
-        <description>Recent content on Example Site</description>
+        <description>Recent content on Just a blog.</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://paulinamartin96.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 17 Jun 2021 19:44:41 -0500</lastBuildDate><atom:link href="https://paulinamartin96.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My_first_blogpost</title>
+        <link>https://paulinamartin96.github.io/p/my_first_blogpost/</link>
+        <pubDate>Thu, 17 Jun 2021 19:44:41 -0500</pubDate>
+        
+        <guid>https://paulinamartin96.github.io/p/my_first_blogpost/</guid>
+        <description>&lt;h2 id=&#34;este-es-mi-primer-post-de&#34;&gt;Este es mi primer post de&lt;/h2&gt;
+&lt;p&gt;Bla Bla Bla &amp;hellip;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://paulinamartin96.github.io/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
